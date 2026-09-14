@@ -1,5 +1,9 @@
 {
   "item.tutorialmod.ruby": "Ruby",
   "item.tutorialmod.raw_ruby": "Raw Ruby",
-  "creativetab.tutorial_tab": "Tutorial mod tab"
+
+  "creativetab.tutorial_tab": "Tutorial mod tab",
+
+  "block.tutorialmod.ore_ruby": "Ruby ore",
+  "block.tutorialmod.ruby_block": "Block of Ruby"
 }
