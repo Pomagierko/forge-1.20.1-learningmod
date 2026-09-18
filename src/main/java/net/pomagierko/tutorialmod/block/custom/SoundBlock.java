@@ -18,7 +18,6 @@ public class SoundBlock extends Block {
 
     @Override
     public InteractionResult use(BlockState pState, Level pLevel, BlockPos pPos, Player pPlayer, InteractionHand pHand, BlockHitResult pHit) {
-
         pLevel.playSound(pPlayer, pPos, SoundEvents.RAID_HORN.get(), SoundSource.BLOCKS, 1f, 1f);
         return InteractionResult.SUCCESS;
     }

@@ -8,5 +8,6 @@
 
   "block.tutorialmod.ore_ruby": "Ruby ore",
   "block.tutorialmod.ruby_block": "Block of Ruby",
-  "block.tutorialmod.sound_block": "Sound Block"
+  "block.tutorialmod.sound_block": "Sound Block",
+  "block.tutorialmod.mine_block": "Mine"
 }
