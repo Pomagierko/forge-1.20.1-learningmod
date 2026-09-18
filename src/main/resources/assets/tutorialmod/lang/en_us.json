@@ -7,5 +7,6 @@
   "creativetab.tutorial_tab": "Tutorial mod tab",
 
   "block.tutorialmod.ore_ruby": "Ruby ore",
-  "block.tutorialmod.ruby_block": "Block of Ruby"
+  "block.tutorialmod.ruby_block": "Block of Ruby",
+  "block.tutorialmod.sound_block": "Sound Block"
 }

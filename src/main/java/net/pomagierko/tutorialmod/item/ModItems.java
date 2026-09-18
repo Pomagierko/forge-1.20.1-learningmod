@@ -16,7 +16,7 @@ public class ModItems {
     public static final RegistryObject<Item> RUBY = ITEMS.register("ruby", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> RAW_RUBY = ITEMS.register("raw_ruby", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> METAL_DETECTOR = ITEMS.register("metal_detector", () -> new MetalDetectorItem(new Item.Properties()
-            .durability(100)));
+            .durability(128)));
     public static final RegistryObject<Item> ENTITY_DETECTOR = ITEMS.register("entity_detector", () -> new EntityDetectorItem(new Item.Properties()
             .durability(64)));
 
