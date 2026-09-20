@@ -1,6 +1,7 @@
 {
   "item.tutorialmod.ruby": "Ruby",
   "item.tutorialmod.raw_ruby": "Raw Ruby",
+  "item.tutorialmod.strawberry": "Strawberry",
   "item.tutorialmod.metal_detector": "Metal Detector",
   "item.tutorialmod.entity_detector": "Entity Detector",
 
@@ -9,5 +10,7 @@
   "block.tutorialmod.ore_ruby": "Ruby ore",
   "block.tutorialmod.ruby_block": "Block of Ruby",
   "block.tutorialmod.sound_block": "Sound Block",
-  "block.tutorialmod.mine_block": "Mine"
+  "block.tutorialmod.mine_block": "Mine",
+
+  "tooltip.tutorialmod.metal_detector.tooltip":"Check for valuable resources directly under the targeted block!"
 }
